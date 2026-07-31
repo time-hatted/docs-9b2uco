@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-13989o.salamcuan.sbs/sitemap.xml
